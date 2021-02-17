@@ -1,4 +1,4 @@
-# prject
-warehouse prject
+# project
+warehouse project
 
 
